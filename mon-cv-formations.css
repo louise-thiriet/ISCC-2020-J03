@@ -1,0 +1,36 @@
+/*mon-cv-formations*/
+body {
+    font-family: "Verdana";
+}
+#titre {
+    display: flex;
+    flex-direction: row;
+    background:rgb(0,0,0,0.5);
+}
+#media1 {
+    width: 20%;
+}
+#media2 {
+    width: 50%;
+}
+#navigation {
+    text-align: center;
+    margin: 0 40%;
+}
+.milieu {
+    background: rgb(0,0,0,0.2);
+}
+#tel {
+    width: 40%;
+}
+#mail {
+    width: 40%;
+}
+#reseau {
+    width: 10%;
+}
+.footer {
+    display: flex;
+    flex-direction: row;
+    background: rgb(0,0,0,0.5);
+}

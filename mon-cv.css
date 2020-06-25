@@ -1,0 +1,60 @@
+/*mon-cv*/
+body {
+    font-family: "Verdana";
+}
+#titre {
+    display: flex;
+    flex-direction: row;
+    background:rgb(0,0,0,0.5);
+}
+#media1 {
+    width: 20%;
+}
+#media2 {
+    width: 50%;
+}
+#navigation {
+    text-align: center;
+    margin: 0 40%;
+}
+.titres {
+    display: flex;
+    flex-direction: row;
+}
+#titre1 {
+    width: 55%;
+}
+#titre2 {
+    width: 25%;
+}
+#photo {
+    width: 25%;
+}
+.profil {
+    width: 30%;
+    padding-top: 2%;
+}
+.compétences {
+    padding-top: 3%;
+}
+.content {
+    display: flex;
+    flex-direction: row;
+}
+.milieu {
+    background: rgb(0,0,0,0.2);
+}
+#tel {
+    width: 40%;
+}
+#mail {
+    width: 40%;
+}
+#reseau {
+    width: 10%;
+}
+.footer {
+    display: flex;
+    flex-direction: row;
+    background: rgb(0,0,0,0.5);
+}
